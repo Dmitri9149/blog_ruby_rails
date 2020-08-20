@@ -1,3 +1,8 @@
+Simple Blog project in Rails / Ruby (still not finished) 
+Just to test what the Ruby amd Rails are. https://guides.rubyonrails.org/getting_started.html
+
+
+
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +27,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+
+
