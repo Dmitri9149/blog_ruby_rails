@@ -1,5 +1,5 @@
 Simple Blog project in Rails / Ruby (still not finished) 
-Just to test what the Ruby amd Rails are. https://guides.rubyonrails.org/getting_started.html
+Just to test what the Ruby amd Rails are. https://guides.rubyonrails.org/getting_started
 
 
 
